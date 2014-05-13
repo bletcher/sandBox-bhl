@@ -1,2 +1,3 @@
-Learning git
-My first file
+Learning git.
+It's fun.
+This is my first file
